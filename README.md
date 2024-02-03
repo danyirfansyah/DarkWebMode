@@ -1,4 +1,4 @@
-* This is my Dark Mode Web, i tried to make this Parallax Website since i was in Senior High School
+* This is my Dark Web Mode, i tried to make this Dark Web Mode since i was in Senior High School
 
 -----------------------------------------------------------------------------------------------------------
 
